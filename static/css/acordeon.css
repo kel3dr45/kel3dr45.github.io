@@ -1,0 +1,79 @@
+.selectorIdioma, .tabss{
+  text-align: left;
+  padding: 8px;
+
+}
+
+.selectorIdioma:hover, .tab:hover{
+  cursor: pointer;
+  color: orange;
+
+}
+
+
+
+
+.detailsA div{
+  
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+
+}
+
+
+
+.detailsA a{
+  text-align: left;
+  padding: 5px;
+  margin: 12px;
+  color: skyblue;
+  text-decoration: underline;
+
+  
+}
+
+
+.detailsA a:hover, .FAQs a:hover{
+  color: orange;
+}
+
+
+.zonaAcordeones, .detailsA, .FAQs{
+  margin: 12px;
+  text-align: center;
+
+  background-color: rgba( 0, 0, 0, .9);
+  border-width: 1px;
+  border-color: ghostwhite;
+  border-radius: 8px;
+  border-style: ridge;
+
+}
+
+.zonaAcordeones{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  margin: 25px;
+  padding: 5px;
+
+
+}
+
+
+
+
+.FAQs .tab{
+  text-align: left;
+  margin:  10px;
+  padding: 10px;
+}
+
+.FAQs p{
+  text-align: left;
+  margin-left: 25px;
+  padding: 2px;
+}
+
+
