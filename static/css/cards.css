@@ -59,7 +59,7 @@
 
 .cardsContainer .card h3{
 	font-weight: 600;
-	font-size: 16px;
+	font-size: 20px;
 	border-radius: 4px;
 	color: floralwhite;
 	text-align: center;
@@ -74,7 +74,7 @@
 
 .cardsContainer .card h4{
 	font-weight: 400;
-	font-size: 16px;
+	font-size: 20px;
 	border-radius: 4px;
 	color: floralwhite;
 	text-align: center;
@@ -195,3 +195,6 @@
 
 
 
+*{
+	font-size: 20px;
+}
